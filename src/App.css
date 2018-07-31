@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  color: black;
+  font-family: 'Pacifico', cursive;
+}
+
+.App-title {
+  font-size: 40px;
+  height: 60px;
+
+}
+
+.App-pineapple {
+  height: 450px;
+  width: auto;
+  margin-bottom: 20px;
+}
