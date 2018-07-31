@@ -2,8 +2,9 @@
   "name": "landing-page-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://csaguil.github.io/flashhang",
+  "homepage": "https://csaguil.github.io/flashhang-landing",
   "dependencies": {
+    "ajv": "^6.5.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
