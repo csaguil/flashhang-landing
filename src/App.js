@@ -13,7 +13,6 @@ class App extends Component {
               Flash Hang is coming soon
             </div>
           </div>
-          <a href="https://goo.gl/oGimnB"><Icon name="external alternate" size="big"></Icon></a>
       </div>
     );
   }
